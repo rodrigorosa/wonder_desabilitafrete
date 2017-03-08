@@ -28,7 +28,7 @@
         <checkout>
             <options>
                 <hide_shipping>1</hide_shipping>
-                <default_shipping>flatrate</default_shipping>
+                <default_shipping>flatrate_flatrate</default_shipping>
             </options>
         </checkout>
     </default>
